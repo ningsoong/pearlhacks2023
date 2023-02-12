@@ -10,5 +10,7 @@ An at-home workout R-based app that generates brand-new workouts every time you 
 To use:
 
 (1) Download R and RStudio
+
 (2) Run the app.R file
+
 (3) Follow instructions within file to get started!
